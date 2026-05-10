@@ -12,7 +12,7 @@ PassGen is a Python-based utility that automates the creation of personalized wo
 - Hashcat-Ready: Outputs results in a clean .txt format compatible with industry-standard cracking tools.
 
 ## Roadmap (Planned Features)
-- [ ] Integration with common OSINT APIs to fetch public data.
+<!-- - [ ] Integration with common OSINT APIs to fetch public data. -->
 - [ ] Multi-threading for faster generation of massive wordlists.
 - [ ] Support for custom rule files (Hashcat style).
 
