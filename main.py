@@ -1,1 +1,1 @@
-#PassGen 0.1
+print("Test Git")
